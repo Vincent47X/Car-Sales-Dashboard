@@ -55,7 +55,7 @@ This project focuses on analyzing car sales data using Excel to track performanc
 
 ## 📊 Dashboard Features
 
-![Dashboard](images/Dashborad.png)
+![Dashboard](images/Dashboard.png)
 
 - KPI Cards:
 

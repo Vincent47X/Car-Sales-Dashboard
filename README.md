@@ -77,6 +77,13 @@ This project focuses on analyzing car sales data using Excel to track performanc
 
 - Highlighted high-revenue product categories
 
+## 📥 Dashboard File
+
+Download the Power BI dashboard here:
+
+- [car_sales_dashboard.pbix](Dashboard/car_sales_dashboard.pbix)
+
+
 ## 🚀 How to Use
 
 1. Open Excel file
